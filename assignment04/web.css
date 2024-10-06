@@ -1,0 +1,33 @@
+/* Global styles for the document */
+body {
+    background-color: #FFFFFF; /* White background */
+    color: #555555; /* Text color */
+}
+
+/* Styles for the header */
+header {
+    background-color: #29485d; /* Header background color */
+    color: #FFFFFF; /* Header text color */
+    padding: 20px; /* Optional padding */
+}
+
+/* Styles for the nav element */
+nav {
+    background-color: #C6D02F; /* Yellow green background */
+    padding: 10px; /* Optional padding */
+}
+
+/* Styles for the h2 element */
+h2 {
+    color: #407386; /* Dark teal text color */
+}
+
+/* Styles for the dt element */
+dt {
+    color: #0194B5; /* Teal text color */
+}
+
+/* Styles for the class named web */
+.web {
+    color: #0194B5; /* Teal text color */
+}
