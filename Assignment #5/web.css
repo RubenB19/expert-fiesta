@@ -1,0 +1,74 @@
+/* Global styles for the document */
+body {
+    background-color: #FFFFFF; /* White background */
+    color: #555555; /* Text color */
+    font-family: Arial, Helvetica, sans-serif; /* Font typeface */
+}
+
+header {
+    background-color: #29485d; /* Header background color */
+    color: #FFFFFF; /* Header text color */
+    padding: 20px; /* Optional padding */
+    background-image: url('logo.png'); /* Background image */
+    background-position: right; /* Position the image on the right */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    line-height: 400%; /* Set line height */
+    text-indent: 1em; /* Set text indent */
+}
+
+nav {
+    background-color: #C6D02F; /* Yellow green background */
+    padding: 10px; /* Optional padding */
+    font-weight: bold; /* Bold text */
+}
+
+
+nav a {
+    text-decoration: none; /* Eliminate underline for hyperlinks */
+}
+
+/* Styles for the h1 element */
+h1 {
+    font-family: Georgia, "Times New Roman", serif; /* Font typeface */
+}
+
+/* Styles for the h2 element */
+h2 {
+    color: #407386; /* Dark teal text color */
+    font-family: Georgia, "Times New Roman", serif; /* Font typeface */
+}
+
+/* Styles for the h3 element */
+h3 {
+    color: #29485d; /* Text color */
+    font-family: Georgia, "Times New Roman", serif; /* Font typeface */
+}
+
+/* Styles for the ul element */
+ul {
+    list-style-image: url('marker.gif'); /* Display marker.gif as the list marker */
+}
+
+/* Styles for the li element */
+li {
+    line-height: 1.5; /* Set line height */
+}
+
+/* Styles for the footer element */
+footer {
+    font-size: 75%; /* Font size */
+    font-style: italic; /* Italic font style */
+    text-align: center; /* Centered text */
+    font-family: Georgia, "Times New Roman", serif; /* Font typeface */
+}
+
+/* Styles for the class named web */
+.web {
+    color: #0194B5; /* Teal text color */
+    font-weight: bold; /* Bold text */
+}
+
+/* Styles for the contact id */
+#contact {
+    font-size: 90%; /* Font size */
+}
